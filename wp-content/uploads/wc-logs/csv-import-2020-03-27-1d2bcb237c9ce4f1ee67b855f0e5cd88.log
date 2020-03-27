@@ -1,0 +1,612 @@
+2020-03-27T02:32:08+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2020-03-27T02:32:08+00:00 DEBUG Parsing products CSV.
+2020-03-27T02:32:08+00:00 DEBUG Finished parsing products CSV.
+2020-03-27T02:32:08+00:00 DEBUG ---
+2020-03-27T02:32:08+00:00 DEBUG Processing products.
+2020-03-27T02:32:08+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-27T02:32:08+00:00 DEBUG > Inserting COOLIBAH PP (AUS) SPINACH 100G
+2020-03-27T02:32:08+00:00 DEBUG > Inserted - post ID is 56.
+2020-03-27T02:32:09+00:00 DEBUG > Finished importing post ID 56.
+2020-03-27T02:32:09+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-27T02:32:09+00:00 DEBUG > Inserting ARTICHOKE EACH
+2020-03-27T02:32:09+00:00 DEBUG > Inserted - post ID is 57.
+2020-03-27T02:32:09+00:00 DEBUG > Finished importing post ID 57.
+2020-03-27T02:32:09+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-27T02:32:09+00:00 DEBUG > Inserting BABY SPINACH             120GM
+2020-03-27T02:32:09+00:00 DEBUG > Inserted - post ID is 58.
+2020-03-27T02:32:09+00:00 DEBUG > Finished importing post ID 58.
+2020-03-27T02:32:09+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-27T02:32:09+00:00 DEBUG > Inserting COMM CO BABY SPINACH     120GM
+2020-03-27T02:32:09+00:00 DEBUG > Inserted - post ID is 59.
+2020-03-27T02:32:09+00:00 DEBUG > Finished importing post ID 59.
+2020-03-27T02:32:09+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-27T02:32:09+00:00 DEBUG > Inserting COMM CO LEAFY MIX        120GM
+2020-03-27T02:32:09+00:00 DEBUG > Inserted - post ID is 60.
+2020-03-27T02:32:10+00:00 DEBUG > Finished importing post ID 60.
+2020-03-27T02:32:10+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-27T02:32:10+00:00 DEBUG > Inserting COMM CO LEAFY MIX        200GM
+2020-03-27T02:32:10+00:00 DEBUG > Inserted - post ID is 61.
+2020-03-27T02:32:10+00:00 DEBUG > Finished importing post ID 61.
+2020-03-27T02:32:10+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-27T02:32:10+00:00 DEBUG > Inserting COMM CO ROCKET            60GM
+2020-03-27T02:32:10+00:00 DEBUG > Inserted - post ID is 62.
+2020-03-27T02:32:10+00:00 DEBUG > Finished importing post ID 62.
+2020-03-27T02:32:10+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-27T02:32:10+00:00 DEBUG > Inserting COMM CO SALAD MIX AUSSIE 120GM
+2020-03-27T02:32:10+00:00 DEBUG > Inserted - post ID is 63.
+2020-03-27T02:32:10+00:00 DEBUG > Finished importing post ID 63.
+2020-03-27T02:32:10+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-27T02:32:10+00:00 DEBUG > Inserting COMM CO SPINACH &amp; ROCKET 120GM
+2020-03-27T02:32:10+00:00 DEBUG > Inserted - post ID is 64.
+2020-03-27T02:32:11+00:00 DEBUG > Finished importing post ID 64.
+2020-03-27T02:32:11+00:00 DEBUG Finished processing products.
+2020-03-27T02:32:11+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2020-03-27T02:32:11+00:00 DEBUG Parsing products CSV.
+2020-03-27T02:32:11+00:00 DEBUG Finished parsing products CSV.
+2020-03-27T02:32:11+00:00 DEBUG ---
+2020-03-27T02:32:11+00:00 DEBUG Processing products.
+2020-03-27T02:32:11+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-27T02:32:11+00:00 DEBUG > Inserting COOLIBAH WILD ROCKT AUS100GM
+2020-03-27T02:32:11+00:00 DEBUG > Inserted - post ID is 65.
+2020-03-27T02:32:11+00:00 DEBUG > Finished importing post ID 65.
+2020-03-27T02:32:11+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-27T02:32:11+00:00 DEBUG > Inserting IGA FRESH LEAFY MIX WSHD 120GM
+2020-03-27T02:32:11+00:00 DEBUG > Inserted - post ID is 66.
+2020-03-27T02:32:11+00:00 DEBUG > Finished importing post ID 66.
+2020-03-27T02:32:11+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-27T02:32:11+00:00 DEBUG > Inserting IGA FRESH SPIN LVE WASHED120GM
+2020-03-27T02:32:11+00:00 DEBUG > Inserted - post ID is 67.
+2020-03-27T02:32:12+00:00 DEBUG > Finished importing post ID 67.
+2020-03-27T02:32:12+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-27T02:32:12+00:00 DEBUG > Inserting IGA FRESH SPIN&amp;ROCK WSHD 120GM
+2020-03-27T02:32:12+00:00 DEBUG > Inserted - post ID is 68.
+2020-03-27T02:32:12+00:00 DEBUG > Finished importing post ID 68.
+2020-03-27T02:32:12+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-27T02:32:12+00:00 DEBUG > Inserting IGA FRESH SPINACH BABY   150GM
+2020-03-27T02:32:12+00:00 DEBUG > Inserted - post ID is 69.
+2020-03-27T02:32:12+00:00 DEBUG > Finished importing post ID 69.
+2020-03-27T02:32:12+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-27T02:32:12+00:00 DEBUG > Inserting SALAD MIX                100GM
+2020-03-27T02:32:12+00:00 DEBUG > Inserted - post ID is 70.
+2020-03-27T02:32:12+00:00 DEBUG > Finished importing post ID 70.
+2020-03-27T02:32:12+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-27T02:32:12+00:00 DEBUG > Inserting ALFALAFA PUNET
+2020-03-27T02:32:12+00:00 DEBUG > Inserted - post ID is 71.
+2020-03-27T02:32:13+00:00 DEBUG > Finished importing post ID 71.
+2020-03-27T02:32:13+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-27T02:32:13+00:00 DEBUG > Inserting ALFALFA SPROUT PUNNET(AUS)200G
+2020-03-27T02:32:13+00:00 DEBUG > Inserted - post ID is 72.
+2020-03-27T02:32:13+00:00 DEBUG > Finished importing post ID 72.
+2020-03-27T02:32:13+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-27T02:32:13+00:00 DEBUG > Inserting APRICOTS MELBOURNE PP     600G
+2020-03-27T02:32:13+00:00 DEBUG > Inserted - post ID is 73.
+2020-03-27T02:32:13+00:00 DEBUG > Finished importing post ID 73.
+2020-03-27T02:32:13+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-27T02:32:13+00:00 DEBUG > Inserting APRICOTS PREMIUM (AUS) PER KG
+2020-03-27T02:32:13+00:00 DEBUG > Inserted - post ID is 74.
+2020-03-27T02:32:13+00:00 DEBUG > Finished importing post ID 74.
+2020-03-27T02:32:13+00:00 DEBUG Finished processing products.
+2020-03-27T02:32:14+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2020-03-27T02:32:14+00:00 DEBUG Parsing products CSV.
+2020-03-27T02:32:14+00:00 DEBUG Finished parsing products CSV.
+2020-03-27T02:32:14+00:00 DEBUG ---
+2020-03-27T02:32:14+00:00 DEBUG Processing products.
+2020-03-27T02:32:14+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-27T02:32:14+00:00 DEBUG > Inserting BABY CORN (THAI)          200G
+2020-03-27T02:32:14+00:00 DEBUG > Inserted - post ID is 75.
+2020-03-27T02:32:14+00:00 DEBUG > Finished importing post ID 75.
+2020-03-27T02:32:14+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-27T02:32:14+00:00 DEBUG > Inserting BASIL BUNCH (AUS)
+2020-03-27T02:32:14+00:00 DEBUG > Inserted - post ID is 76.
+2020-03-27T02:32:14+00:00 DEBUG > Finished importing post ID 76.
+2020-03-27T02:32:14+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-27T02:32:14+00:00 DEBUG > Inserting BEAN SHOOTS SPROUTS (AUS) 250G
+2020-03-27T02:32:14+00:00 DEBUG > Inserted - post ID is 77.
+2020-03-27T02:32:14+00:00 DEBUG > Finished importing post ID 77.
+2020-03-27T02:32:14+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-27T02:32:14+00:00 DEBUG > Inserting BEANS GREEN LOOSE       PER KG
+2020-03-27T02:32:14+00:00 DEBUG > Inserted - post ID is 78.
+2020-03-27T02:32:15+00:00 DEBUG > Finished importing post ID 78.
+2020-03-27T02:32:15+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-27T02:32:15+00:00 DEBUG > Inserting BEANS GREEN PRE-PACKED / KG
+2020-03-27T02:32:15+00:00 DEBUG > Inserted - post ID is 79.
+2020-03-27T02:32:15+00:00 DEBUG > Finished importing post ID 79.
+2020-03-27T02:32:15+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-27T02:32:15+00:00 DEBUG > Inserting BEETROOT AUS GRWN        250GM
+2020-03-27T02:32:15+00:00 DEBUG > Inserted - post ID is 80.
+2020-03-27T02:32:15+00:00 DEBUG > Finished importing post ID 80.
+2020-03-27T02:32:15+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-27T02:32:15+00:00 DEBUG > Inserting BEETROOT ORGANIC        PER KG
+2020-03-27T02:32:15+00:00 DEBUG > Inserted - post ID is 81.
+2020-03-27T02:32:15+00:00 DEBUG > Finished importing post ID 81.
+2020-03-27T02:32:15+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-27T02:32:15+00:00 DEBUG > Inserting BEETROOTEACH
+2020-03-27T02:32:15+00:00 DEBUG > Inserted - post ID is 82.
+2020-03-27T02:32:16+00:00 DEBUG > Finished importing post ID 82.
+2020-03-27T02:32:16+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-27T02:32:16+00:00 DEBUG > Inserting BIRCHER MUSELI/BERRIES    265G
+2020-03-27T02:32:16+00:00 DEBUG > Inserted - post ID is 83.
+2020-03-27T02:32:16+00:00 DEBUG > Finished importing post ID 83.
+2020-03-27T02:32:16+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-27T02:32:16+00:00 DEBUG > Inserting BOK CHOY (AUS) EACH
+2020-03-27T02:32:16+00:00 DEBUG > Inserted - post ID is 84.
+2020-03-27T02:32:16+00:00 DEBUG > Finished importing post ID 84.
+2020-03-27T02:32:16+00:00 DEBUG Finished processing products.
+2020-03-27T02:32:16+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2020-03-27T02:32:16+00:00 DEBUG Parsing products CSV.
+2020-03-27T02:32:16+00:00 DEBUG Finished parsing products CSV.
+2020-03-27T02:32:16+00:00 DEBUG ---
+2020-03-27T02:32:16+00:00 DEBUG Processing products.
+2020-03-27T02:32:16+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-27T02:32:16+00:00 DEBUG > Inserting BREADWINNER SANDWICHES    230G
+2020-03-27T02:32:16+00:00 DEBUG > Inserted - post ID is 85.
+2020-03-27T02:32:17+00:00 DEBUG > Finished importing post ID 85.
+2020-03-27T02:32:17+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-27T02:32:17+00:00 DEBUG > Inserting BREADWINNER WRAPS         180G
+2020-03-27T02:32:17+00:00 DEBUG > Inserted - post ID is 86.
+2020-03-27T02:32:17+00:00 DEBUG > Finished importing post ID 86.
+2020-03-27T02:32:17+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-27T02:32:17+00:00 DEBUG > Inserting BROCCOLI AUS            PER KG
+2020-03-27T02:32:17+00:00 DEBUG > Inserted - post ID is 87.
+2020-03-27T02:32:17+00:00 DEBUG > Finished importing post ID 87.
+2020-03-27T02:32:17+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-27T02:32:17+00:00 DEBUG > Inserting BROCCOLINI BUNCH AUS 250G
+2020-03-27T02:32:17+00:00 DEBUG > Inserted - post ID is 88.
+2020-03-27T02:32:17+00:00 DEBUG > Finished importing post ID 88.
+2020-03-27T02:32:17+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-27T02:32:17+00:00 DEBUG > Inserting BRUSSELL SPROUTS      PP  200G
+2020-03-27T02:32:17+00:00 DEBUG > Inserted - post ID is 89.
+2020-03-27T02:32:18+00:00 DEBUG > Finished importing post ID 89.
+2020-03-27T02:32:18+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-27T02:32:18+00:00 DEBUG > Inserting CABBAGE GREEN HALF
+2020-03-27T02:32:18+00:00 DEBUG > Inserted - post ID is 90.
+2020-03-27T02:32:18+00:00 DEBUG > Finished importing post ID 90.
+2020-03-27T02:32:18+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-27T02:32:18+00:00 DEBUG > Inserting CABBAGE GREEN QUARTER
+2020-03-27T02:32:18+00:00 DEBUG > Inserted - post ID is 91.
+2020-03-27T02:32:18+00:00 DEBUG > Finished importing post ID 91.
+2020-03-27T02:32:18+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-27T02:32:18+00:00 DEBUG > Inserting CABBAGE RED  HALF
+2020-03-27T02:32:18+00:00 DEBUG > Inserted - post ID is 92.
+2020-03-27T02:32:18+00:00 DEBUG > Finished importing post ID 92.
+2020-03-27T02:32:18+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-27T02:32:18+00:00 DEBUG > Inserting CABBAGE RED  QUARTER
+2020-03-27T02:32:18+00:00 DEBUG > Inserted - post ID is 93.
+2020-03-27T02:32:19+00:00 DEBUG > Finished importing post ID 93.
+2020-03-27T02:32:19+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-27T02:32:19+00:00 DEBUG > Inserting CAPSICUM GREEN (AUS)    PER KG
+2020-03-27T02:32:19+00:00 DEBUG > Inserted - post ID is 94.
+2020-03-27T02:32:19+00:00 DEBUG > Finished importing post ID 94.
+2020-03-27T02:32:19+00:00 DEBUG Finished processing products.
+2020-03-27T02:32:19+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2020-03-27T02:32:19+00:00 DEBUG Parsing products CSV.
+2020-03-27T02:32:19+00:00 DEBUG Finished parsing products CSV.
+2020-03-27T02:32:19+00:00 DEBUG ---
+2020-03-27T02:32:19+00:00 DEBUG Processing products.
+2020-03-27T02:32:19+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-27T02:32:19+00:00 DEBUG > Inserting CAPSICUM GREEN LONG PER KG
+2020-03-27T02:32:19+00:00 DEBUG > Inserted - post ID is 95.
+2020-03-27T02:32:19+00:00 DEBUG > Finished importing post ID 95.
+2020-03-27T02:32:19+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-27T02:32:19+00:00 DEBUG > Inserting CAPSICUM RED (AUS)      PER KG
+2020-03-27T02:32:19+00:00 DEBUG > Inserted - post ID is 96.
+2020-03-27T02:32:20+00:00 DEBUG > Finished importing post ID 96.
+2020-03-27T02:32:20+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-27T02:32:20+00:00 DEBUG > Inserting CAPSICUM RED BULL HORN  PER KG
+2020-03-27T02:32:20+00:00 DEBUG > Inserted - post ID is 97.
+2020-03-27T02:32:20+00:00 DEBUG > Finished importing post ID 97.
+2020-03-27T02:32:20+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-27T02:32:20+00:00 DEBUG > Inserting CARROT BABY DUTCH    (AUS)250G
+2020-03-27T02:32:20+00:00 DEBUG > Inserted - post ID is 98.
+2020-03-27T02:32:20+00:00 DEBUG > Finished importing post ID 98.
+2020-03-27T02:32:20+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-27T02:32:20+00:00 DEBUG > Inserting CARROTS -SNACKABLE       250G
+2020-03-27T02:32:20+00:00 DEBUG > Inserted - post ID is 99.
+2020-03-27T02:32:20+00:00 DEBUG > Finished importing post ID 99.
+2020-03-27T02:32:20+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-27T02:32:20+00:00 DEBUG > Inserting CARROTS BAGS ORGANIC       1KG
+2020-03-27T02:32:20+00:00 DEBUG > Inserted - post ID is 100.
+2020-03-27T02:32:21+00:00 DEBUG > Finished importing post ID 100.
+2020-03-27T02:32:21+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-27T02:32:21+00:00 DEBUG > Inserting CARROTS DUTCH BUNCH EACH
+2020-03-27T02:32:21+00:00 DEBUG > Inserted - post ID is 101.
+2020-03-27T02:32:21+00:00 DEBUG > Finished importing post ID 101.
+2020-03-27T02:32:21+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-27T02:32:21+00:00 DEBUG > Inserting CARROTS LOOSE (AUS) PER KG
+2020-03-27T02:32:21+00:00 DEBUG > Inserted - post ID is 102.
+2020-03-27T02:32:21+00:00 DEBUG > Finished importing post ID 102.
+2020-03-27T02:32:21+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-27T02:32:21+00:00 DEBUG > Inserting CAULIFLOWER HALF
+2020-03-27T02:32:21+00:00 DEBUG > Inserted - post ID is 103.
+2020-03-27T02:32:21+00:00 DEBUG > Finished importing post ID 103.
+2020-03-27T02:32:21+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-27T02:32:21+00:00 DEBUG > Inserting CAULIFLOWER WHOLE
+2020-03-27T02:32:21+00:00 DEBUG > Inserted - post ID is 104.
+2020-03-27T02:32:22+00:00 DEBUG > Finished importing post ID 104.
+2020-03-27T02:32:22+00:00 DEBUG Finished processing products.
+2020-03-27T02:32:22+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2020-03-27T02:32:22+00:00 DEBUG Parsing products CSV.
+2020-03-27T02:32:22+00:00 DEBUG Finished parsing products CSV.
+2020-03-27T02:32:22+00:00 DEBUG ---
+2020-03-27T02:32:22+00:00 DEBUG Processing products.
+2020-03-27T02:32:22+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-27T02:32:22+00:00 DEBUG > Inserting CELERY HALF (AUS)
+2020-03-27T02:32:22+00:00 DEBUG > Inserted - post ID is 105.
+2020-03-27T02:32:22+00:00 DEBUG > Finished importing post ID 105.
+2020-03-27T02:32:22+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-27T02:32:22+00:00 DEBUG > Inserting CHILLI GREEN (AUS)      PER KG
+2020-03-27T02:32:22+00:00 DEBUG > Inserted - post ID is 106.
+2020-03-27T02:32:22+00:00 DEBUG > Finished importing post ID 106.
+2020-03-27T02:32:22+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-27T02:32:22+00:00 DEBUG > Inserting CHILLI RED MEXICAN      PER KG
+2020-03-27T02:32:22+00:00 DEBUG > Inserted - post ID is 107.
+2020-03-27T02:32:23+00:00 DEBUG > Finished importing post ID 107.
+2020-03-27T02:32:23+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-27T02:32:23+00:00 DEBUG > Inserting CHOIS KING BROWN 200G
+2020-03-27T02:32:23+00:00 DEBUG > Inserted - post ID is 108.
+2020-03-27T02:32:23+00:00 DEBUG > Finished importing post ID 108.
+2020-03-27T02:32:23+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-27T02:32:23+00:00 DEBUG > Inserting CHOIS WHITE FUNGI
+2020-03-27T02:32:23+00:00 DEBUG > Inserted - post ID is 109.
+2020-03-27T02:32:23+00:00 DEBUG > Finished importing post ID 109.
+2020-03-27T02:32:23+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-27T02:32:23+00:00 DEBUG > Inserting CORIANDER BUNCH (AUS) EACH
+2020-03-27T02:32:23+00:00 DEBUG > Inserted - post ID is 110.
+2020-03-27T02:32:23+00:00 DEBUG > Finished importing post ID 110.
+2020-03-27T02:32:23+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-27T02:32:23+00:00 DEBUG > Inserting CORN PP (AUS)             4PK
+2020-03-27T02:32:23+00:00 DEBUG > Inserted - post ID is 111.
+2020-03-27T02:32:23+00:00 DEBUG > Finished importing post ID 111.
+2020-03-27T02:32:23+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-27T02:32:24+00:00 DEBUG > Inserting CORN SINGLE          (AUS) 1PK
+2020-03-27T02:32:24+00:00 DEBUG > Inserted - post ID is 112.
+2020-03-27T02:32:24+00:00 DEBUG > Finished importing post ID 112.
+2020-03-27T02:32:24+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-27T02:32:24+00:00 DEBUG > Inserting CORN SWEET PP (THAI)  EACH
+2020-03-27T02:32:24+00:00 DEBUG > Inserted - post ID is 113.
+2020-03-27T02:32:24+00:00 DEBUG > Finished importing post ID 113.
+2020-03-27T02:32:24+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-27T02:32:24+00:00 DEBUG > Inserting CRISPY CHICKEN SALAD PP R/W
+2020-03-27T02:32:24+00:00 DEBUG > Inserted - post ID is 114.
+2020-03-27T02:32:24+00:00 DEBUG > Finished importing post ID 114.
+2020-03-27T02:32:24+00:00 DEBUG Finished processing products.
+2020-03-27T02:32:25+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2020-03-27T02:32:25+00:00 DEBUG Parsing products CSV.
+2020-03-27T02:32:25+00:00 DEBUG Finished parsing products CSV.
+2020-03-27T02:32:25+00:00 DEBUG ---
+2020-03-27T02:32:25+00:00 DEBUG Processing products.
+2020-03-27T02:32:25+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-27T02:32:25+00:00 DEBUG > Inserting CUCUMBER CONT LARGE       EACH
+2020-03-27T02:32:25+00:00 DEBUG > Inserted - post ID is 115.
+2020-03-27T02:32:25+00:00 DEBUG > Finished importing post ID 115.
+2020-03-27T02:32:25+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-27T02:32:25+00:00 DEBUG > Inserting CUCUMBER LEBANES(AUS)   PER KG
+2020-03-27T02:32:25+00:00 DEBUG > Inserted - post ID is 116.
+2020-03-27T02:32:25+00:00 DEBUG > Finished importing post ID 116.
+2020-03-27T02:32:25+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-27T02:32:25+00:00 DEBUG > Inserting EGGPLANT FRESH (AUS) PER KG
+2020-03-27T02:32:25+00:00 DEBUG > Inserted - post ID is 117.
+2020-03-27T02:32:25+00:00 DEBUG > Finished importing post ID 117.
+2020-03-27T02:32:25+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-27T02:32:25+00:00 DEBUG > Inserting FENNEL (AUS)              EACH
+2020-03-27T02:32:25+00:00 DEBUG > Inserted - post ID is 118.
+2020-03-27T02:32:26+00:00 DEBUG > Finished importing post ID 118.
+2020-03-27T02:32:26+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-27T02:32:26+00:00 DEBUG > Inserting FRESH PP SILVERBEET LEAVES200G
+2020-03-27T02:32:26+00:00 DEBUG > Inserted - post ID is 119.
+2020-03-27T02:32:26+00:00 DEBUG > Finished importing post ID 119.
+2020-03-27T02:32:26+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-27T02:32:26+00:00 DEBUG > Inserting GARLIC (MEX)          PER KG
+2020-03-27T02:32:26+00:00 DEBUG > Inserted - post ID is 120.
+2020-03-27T02:32:26+00:00 DEBUG > Finished importing post ID 120.
+2020-03-27T02:32:26+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-27T02:32:26+00:00 DEBUG > Inserting GARLIC ORGANIC          PER KG
+2020-03-27T02:32:26+00:00 DEBUG > Inserted - post ID is 121.
+2020-03-27T02:32:26+00:00 DEBUG > Finished importing post ID 121.
+2020-03-27T02:32:26+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-27T02:32:26+00:00 DEBUG > Inserting GINGER (AUS)            PER KG
+2020-03-27T02:32:26+00:00 DEBUG > Inserted - post ID is 122.
+2020-03-27T02:32:27+00:00 DEBUG > Finished importing post ID 122.
+2020-03-27T02:32:27+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-27T02:32:27+00:00 DEBUG > Inserting HAPPY NUT CANDIED PEANUT  225G
+2020-03-27T02:32:27+00:00 DEBUG > Inserted - post ID is 123.
+2020-03-27T02:32:27+00:00 DEBUG > Finished importing post ID 123.
+2020-03-27T02:32:27+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-27T02:32:27+00:00 DEBUG > Inserting HAPPY NUT CHILLI CORN NUG 150G
+2020-03-27T02:32:27+00:00 DEBUG > Inserted - post ID is 124.
+2020-03-27T02:32:27+00:00 DEBUG > Finished importing post ID 124.
+2020-03-27T02:32:27+00:00 DEBUG Finished processing products.
+2020-03-27T02:32:27+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2020-03-27T02:32:27+00:00 DEBUG Parsing products CSV.
+2020-03-27T02:32:27+00:00 DEBUG Finished parsing products CSV.
+2020-03-27T02:32:27+00:00 DEBUG ---
+2020-03-27T02:32:27+00:00 DEBUG Processing products.
+2020-03-27T02:32:27+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-27T02:32:27+00:00 DEBUG > Inserting IGA FRESH SALAD AUSSIE   120GM
+2020-03-27T02:32:27+00:00 DEBUG > Inserted - post ID is 125.
+2020-03-27T02:32:28+00:00 DEBUG > Finished importing post ID 125.
+2020-03-27T02:32:28+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-27T02:32:28+00:00 DEBUG > Inserting JALAPENO GREEN CHILLI PER KG
+2020-03-27T02:32:28+00:00 DEBUG > Inserted - post ID is 126.
+2020-03-27T02:32:28+00:00 DEBUG > Finished importing post ID 126.
+2020-03-27T02:32:28+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-27T02:32:28+00:00 DEBUG > Inserting LEEKS EACH LARGE (AUS) EACH
+2020-03-27T02:32:28+00:00 DEBUG > Inserted - post ID is 127.
+2020-03-27T02:32:28+00:00 DEBUG > Finished importing post ID 127.
+2020-03-27T02:32:28+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-27T02:32:28+00:00 DEBUG > Inserting LEMON                     EACH
+2020-03-27T02:32:28+00:00 DEBUG > Inserted - post ID is 128.
+2020-03-27T02:32:28+00:00 DEBUG > Finished importing post ID 128.
+2020-03-27T02:32:28+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-27T02:32:28+00:00 DEBUG > Inserting LENTIL BEAN SALAD PP       R/W
+2020-03-27T02:32:28+00:00 DEBUG > Inserted - post ID is 129.
+2020-03-27T02:32:29+00:00 DEBUG > Finished importing post ID 129.
+2020-03-27T02:32:29+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-27T02:32:29+00:00 DEBUG > Inserting LETTUCE ICE BERG (AUS) EACH
+2020-03-27T02:32:29+00:00 DEBUG > Inserted - post ID is 130.
+2020-03-27T02:32:29+00:00 DEBUG > Finished importing post ID 130.
+2020-03-27T02:32:29+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-27T02:32:29+00:00 DEBUG > Inserting LIMES (AUS) EACH
+2020-03-27T02:32:29+00:00 DEBUG > Inserted - post ID is 131.
+2020-03-27T02:32:29+00:00 DEBUG > Finished importing post ID 131.
+2020-03-27T02:32:29+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-27T02:32:29+00:00 DEBUG > Inserting LITTLE LEAVES SALAD BLEND200GM
+2020-03-27T02:32:29+00:00 DEBUG > Inserted - post ID is 132.
+2020-03-27T02:32:29+00:00 DEBUG > Finished importing post ID 132.
+2020-03-27T02:32:29+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-27T02:32:29+00:00 DEBUG > Inserting MINT BUNCH (AUS) EACH
+2020-03-27T02:32:29+00:00 DEBUG > Inserted - post ID is 133.
+2020-03-27T02:32:30+00:00 DEBUG > Finished importing post ID 133.
+2020-03-27T02:32:30+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-27T02:32:30+00:00 DEBUG > Inserting MUSHROOM BROWN CUP SWISS KG
+2020-03-27T02:32:30+00:00 DEBUG > Inserted - post ID is 134.
+2020-03-27T02:32:30+00:00 DEBUG > Finished importing post ID 134.
+2020-03-27T02:32:30+00:00 DEBUG Finished processing products.
+2020-03-27T02:32:30+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2020-03-27T02:32:30+00:00 DEBUG Parsing products CSV.
+2020-03-27T02:32:30+00:00 DEBUG Finished parsing products CSV.
+2020-03-27T02:32:30+00:00 DEBUG ---
+2020-03-27T02:32:30+00:00 DEBUG Processing products.
+2020-03-27T02:32:30+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-27T02:32:30+00:00 DEBUG > Inserting MUSHROOM BROWN FLAT SWISS P/KG
+2020-03-27T02:32:30+00:00 DEBUG > Inserted - post ID is 135.
+2020-03-27T02:32:30+00:00 DEBUG > Finished importing post ID 135.
+2020-03-27T02:32:30+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-27T02:32:30+00:00 DEBUG > Inserting MUSHROOM FLAT SWISS BROWN375G
+2020-03-27T02:32:30+00:00 DEBUG > Inserted - post ID is 136.
+2020-03-27T02:32:31+00:00 DEBUG > Finished importing post ID 136.
+2020-03-27T02:32:31+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-27T02:32:31+00:00 DEBUG > Inserting MUSHROOM ORGANIC SWISS 150G
+2020-03-27T02:32:31+00:00 DEBUG > Inserted - post ID is 137.
+2020-03-27T02:32:31+00:00 DEBUG > Finished importing post ID 137.
+2020-03-27T02:32:31+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-27T02:32:31+00:00 DEBUG > Inserting MUSHROOM WHITE CUP PP     200G
+2020-03-27T02:32:31+00:00 DEBUG > Inserted - post ID is 138.
+2020-03-27T02:32:31+00:00 DEBUG > Finished importing post ID 138.
+2020-03-27T02:32:31+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-27T02:32:31+00:00 DEBUG > Inserting MUSHROOM WHITE FLAT     PER KG
+2020-03-27T02:32:31+00:00 DEBUG > Inserted - post ID is 139.
+2020-03-27T02:32:31+00:00 DEBUG > Finished importing post ID 139.
+2020-03-27T02:32:31+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-27T02:32:31+00:00 DEBUG > Inserting MUSHROOMS CUP SLICED  PP 200G
+2020-03-27T02:32:31+00:00 DEBUG > Inserted - post ID is 140.
+2020-03-27T02:32:32+00:00 DEBUG > Finished importing post ID 140.
+2020-03-27T02:32:32+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-27T02:32:32+00:00 DEBUG > Inserting MUSHROOMS OYSTER COMP 100GM
+2020-03-27T02:32:32+00:00 DEBUG > Inserted - post ID is 141.
+2020-03-27T02:32:32+00:00 DEBUG > Finished importing post ID 141.
+2020-03-27T02:32:32+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-27T02:32:32+00:00 DEBUG > Inserting NOISEETE ALMOND CROISSANT 180G
+2020-03-27T02:32:32+00:00 DEBUG > Inserted - post ID is 142.
+2020-03-27T02:32:32+00:00 DEBUG > Finished importing post ID 142.
+2020-03-27T02:32:32+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-27T02:32:32+00:00 DEBUG > Inserting NOISEETE BROWNIES
+2020-03-27T02:32:32+00:00 DEBUG > Inserted - post ID is 143.
+2020-03-27T02:32:32+00:00 DEBUG > Finished importing post ID 143.
+2020-03-27T02:32:32+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-27T02:32:32+00:00 DEBUG > Inserting NOISEETE CHERRY DANISH 90G
+2020-03-27T02:32:32+00:00 DEBUG > Inserted - post ID is 144.
+2020-03-27T02:32:33+00:00 DEBUG > Finished importing post ID 144.
+2020-03-27T02:32:33+00:00 DEBUG Finished processing products.
+2020-03-27T02:32:33+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2020-03-27T02:32:33+00:00 DEBUG Parsing products CSV.
+2020-03-27T02:32:33+00:00 DEBUG Finished parsing products CSV.
+2020-03-27T02:32:33+00:00 DEBUG ---
+2020-03-27T02:32:33+00:00 DEBUG Processing products.
+2020-03-27T02:32:33+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-27T02:32:33+00:00 DEBUG > Inserting NOISEETE CINNA CROISSANT 180G
+2020-03-27T02:32:33+00:00 DEBUG > Inserted - post ID is 145.
+2020-03-27T02:32:33+00:00 DEBUG > Finished importing post ID 145.
+2020-03-27T02:32:33+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-27T02:32:33+00:00 DEBUG > Inserting NOISEETE CROISSANT 100G
+2020-03-27T02:32:33+00:00 DEBUG > Inserted - post ID is 146.
+2020-03-27T02:32:34+00:00 DEBUG > Finished importing post ID 146.
+2020-03-27T02:32:34+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-27T02:32:34+00:00 DEBUG > Inserting NOISEETE DANISH APRICOT  90G
+2020-03-27T02:32:34+00:00 DEBUG > Inserted - post ID is 147.
+2020-03-27T02:32:34+00:00 DEBUG > Finished importing post ID 147.
+2020-03-27T02:32:34+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-27T02:32:34+00:00 DEBUG > Inserting NOISEETE MUFFIN EACH
+2020-03-27T02:32:34+00:00 DEBUG > Inserted - post ID is 148.
+2020-03-27T02:32:34+00:00 DEBUG > Finished importing post ID 148.
+2020-03-27T02:32:34+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-27T02:32:34+00:00 DEBUG > Inserting ONION BROWN (AUS)       PER KG
+2020-03-27T02:32:34+00:00 DEBUG > Inserted - post ID is 149.
+2020-03-27T02:32:34+00:00 DEBUG > Finished importing post ID 149.
+2020-03-27T02:32:34+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-27T02:32:34+00:00 DEBUG > Inserting ONION RED  (AUS)        PER KG
+2020-03-27T02:32:34+00:00 DEBUG > Inserted - post ID is 150.
+2020-03-27T02:32:35+00:00 DEBUG > Finished importing post ID 150.
+2020-03-27T02:32:35+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-27T02:32:35+00:00 DEBUG > Inserting PARSLEY CONTINENTAL (AUS)BUNCH
+2020-03-27T02:32:35+00:00 DEBUG > Inserted - post ID is 151.
+2020-03-27T02:32:35+00:00 DEBUG > Finished importing post ID 151.
+2020-03-27T02:32:35+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-27T02:32:35+00:00 DEBUG > Inserting POTATO BRSH DUTCH CRM (TAS)/KG
+2020-03-27T02:32:35+00:00 DEBUG > Inserted - post ID is 152.
+2020-03-27T02:32:35+00:00 DEBUG > Finished importing post ID 152.
+2020-03-27T02:32:35+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-27T02:32:35+00:00 DEBUG > Inserting POTATO DESIRRE (AUS) PER KG
+2020-03-27T02:32:35+00:00 DEBUG > Inserted - post ID is 153.
+2020-03-27T02:32:35+00:00 DEBUG > Finished importing post ID 153.
+2020-03-27T02:32:35+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-27T02:32:35+00:00 DEBUG > Inserting POTATO WASHED KSTRL(AUS)PER KG
+2020-03-27T02:32:35+00:00 DEBUG > Inserted - post ID is 154.
+2020-03-27T02:32:36+00:00 DEBUG > Finished importing post ID 154.
+2020-03-27T02:32:36+00:00 DEBUG Finished processing products.
+2020-03-27T02:32:36+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2020-03-27T02:32:36+00:00 DEBUG Parsing products CSV.
+2020-03-27T02:32:36+00:00 DEBUG Finished parsing products CSV.
+2020-03-27T02:32:36+00:00 DEBUG ---
+2020-03-27T02:32:36+00:00 DEBUG Processing products.
+2020-03-27T02:32:36+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-27T02:32:36+00:00 DEBUG > Inserting PUMPKIN B/NUT (AUS)     PER KG
+2020-03-27T02:32:36+00:00 DEBUG > Inserted - post ID is 155.
+2020-03-27T02:32:36+00:00 DEBUG > Finished importing post ID 155.
+2020-03-27T02:32:36+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-27T02:32:36+00:00 DEBUG > Inserting PUMPKIN KENT PER KG
+2020-03-27T02:32:36+00:00 DEBUG > Inserted - post ID is 156.
+2020-03-27T02:32:36+00:00 DEBUG > Finished importing post ID 156.
+2020-03-27T02:32:36+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-27T02:32:36+00:00 DEBUG > Inserting RADIOCCHIO  (AUS)         EACH
+2020-03-27T02:32:36+00:00 DEBUG > Inserted - post ID is 157.
+2020-03-27T02:32:37+00:00 DEBUG > Finished importing post ID 157.
+2020-03-27T02:32:37+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-27T02:32:37+00:00 DEBUG > Inserting SALAD B/ROCKETS (AUS)  PER KG
+2020-03-27T02:32:37+00:00 DEBUG > Inserted - post ID is 158.
+2020-03-27T02:32:37+00:00 DEBUG > Finished importing post ID 158.
+2020-03-27T02:32:37+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-27T02:32:37+00:00 DEBUG > Inserting SALAD BABY ROCKETS PER KG
+2020-03-27T02:32:37+00:00 DEBUG > Inserted - post ID is 159.
+2020-03-27T02:32:37+00:00 DEBUG > Finished importing post ID 159.
+2020-03-27T02:32:37+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-27T02:32:37+00:00 DEBUG > Inserting SALAD BABY SPINACH AUS PER KG
+2020-03-27T02:32:37+00:00 DEBUG > Inserted - post ID is 160.
+2020-03-27T02:32:37+00:00 DEBUG > Finished importing post ID 160.
+2020-03-27T02:32:37+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-27T02:32:37+00:00 DEBUG > Inserting SNOW PEA SPROUT PUNNET
+2020-03-27T02:32:37+00:00 DEBUG > Inserted - post ID is 161.
+2020-03-27T02:32:37+00:00 DEBUG > Finished importing post ID 161.
+2020-03-27T02:32:37+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-27T02:32:37+00:00 DEBUG > Inserting SNOW PEAS  PREPACKED PERKG
+2020-03-27T02:32:38+00:00 DEBUG > Inserted - post ID is 162.
+2020-03-27T02:32:38+00:00 DEBUG > Finished importing post ID 162.
+2020-03-27T02:32:38+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-27T02:32:38+00:00 DEBUG > Inserting SNOW PEAS (AUS)         PER KG
+2020-03-27T02:32:38+00:00 DEBUG > Inserted - post ID is 163.
+2020-03-27T02:32:38+00:00 DEBUG > Finished importing post ID 163.
+2020-03-27T02:32:38+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-27T02:32:38+00:00 DEBUG > Inserting SPRING ONIONS (AUS)       EACH
+2020-03-27T02:32:38+00:00 DEBUG > Inserted - post ID is 164.
+2020-03-27T02:32:38+00:00 DEBUG > Finished importing post ID 164.
+2020-03-27T02:32:38+00:00 DEBUG Finished processing products.
+2020-03-27T02:32:38+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2020-03-27T02:32:38+00:00 DEBUG Parsing products CSV.
+2020-03-27T02:32:38+00:00 DEBUG Finished parsing products CSV.
+2020-03-27T02:32:38+00:00 DEBUG ---
+2020-03-27T02:32:38+00:00 DEBUG Processing products.
+2020-03-27T02:32:38+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-27T02:32:38+00:00 DEBUG > Inserting STRAWBERRY COMPOSTABLE 250G
+2020-03-27T02:32:38+00:00 DEBUG > Inserted - post ID is 165.
+2020-03-27T02:32:39+00:00 DEBUG > Finished importing post ID 165.
+2020-03-27T02:32:39+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-27T02:32:39+00:00 DEBUG > Inserting SUGAR SNAP PEAS PER KG
+2020-03-27T02:32:39+00:00 DEBUG > Inserted - post ID is 166.
+2020-03-27T02:32:39+00:00 DEBUG > Finished importing post ID 166.
+2020-03-27T02:32:39+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-27T02:32:39+00:00 DEBUG > Inserting SWEET CORN PP (THAI)      EACH
+2020-03-27T02:32:39+00:00 DEBUG > Inserted - post ID is 167.
+2020-03-27T02:32:39+00:00 DEBUG > Finished importing post ID 167.
+2020-03-27T02:32:39+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-27T02:32:39+00:00 DEBUG > Inserting SWISS BRWN MUSHROOM SLICE 200G
+2020-03-27T02:32:39+00:00 DEBUG > Inserted - post ID is 168.
+2020-03-27T02:32:39+00:00 DEBUG > Finished importing post ID 168.
+2020-03-27T02:32:39+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-27T02:32:39+00:00 DEBUG > Inserting THYME
+2020-03-27T02:32:39+00:00 DEBUG > Inserted - post ID is 169.
+2020-03-27T02:32:40+00:00 DEBUG > Finished importing post ID 169.
+2020-03-27T02:32:40+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-27T02:32:40+00:00 DEBUG > Inserting TOMATOE COMPOSTABLE CHRY 250G
+2020-03-27T02:32:40+00:00 DEBUG > Inserted - post ID is 170.
+2020-03-27T02:32:40+00:00 DEBUG > Finished importing post ID 170.
+2020-03-27T02:32:40+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-27T02:32:40+00:00 DEBUG > Inserting TOMATOE COMPOSTABLE ROMA 250G
+2020-03-27T02:32:40+00:00 DEBUG > Inserted - post ID is 171.
+2020-03-27T02:32:40+00:00 DEBUG > Finished importing post ID 171.
+2020-03-27T02:32:40+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-27T02:32:40+00:00 DEBUG > Inserting TOMATOES BABY ROMA TRUSS 275G
+2020-03-27T02:32:40+00:00 DEBUG > Inserted - post ID is 172.
+2020-03-27T02:32:40+00:00 DEBUG > Finished importing post ID 172.
+2020-03-27T02:32:40+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-27T02:32:40+00:00 DEBUG > Inserting TOMATOES MEDLEY PUNET     200G
+2020-03-27T02:32:40+00:00 DEBUG > Inserted - post ID is 173.
+2020-03-27T02:32:41+00:00 DEBUG > Finished importing post ID 173.
+2020-03-27T02:32:41+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-27T02:32:41+00:00 DEBUG > Inserting TOMATOES MINI ROMA LOOSE    KG
+2020-03-27T02:32:41+00:00 DEBUG > Inserted - post ID is 174.
+2020-03-27T02:32:41+00:00 DEBUG > Finished importing post ID 174.
+2020-03-27T02:32:41+00:00 DEBUG Finished processing products.
+2020-03-27T02:32:41+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2020-03-27T02:32:41+00:00 DEBUG Parsing products CSV.
+2020-03-27T02:32:41+00:00 DEBUG Finished parsing products CSV.
+2020-03-27T02:32:41+00:00 DEBUG ---
+2020-03-27T02:32:41+00:00 DEBUG Processing products.
+2020-03-27T02:32:41+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-27T02:32:41+00:00 DEBUG > Inserting TOMATOES MINI ROMA PUNET200G
+2020-03-27T02:32:41+00:00 DEBUG > Inserted - post ID is 175.
+2020-03-27T02:32:41+00:00 DEBUG > Finished importing post ID 175.
+2020-03-27T02:32:41+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-27T02:32:41+00:00 DEBUG > Inserting TOMATOES ORGANIC SNACKING 200G
+2020-03-27T02:32:41+00:00 DEBUG > Inserted - post ID is 176.
+2020-03-27T02:32:41+00:00 DEBUG > Finished importing post ID 176.
+2020-03-27T02:32:41+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-27T02:32:41+00:00 DEBUG > Inserting TOMATOES TRUSS (AUS)    PER KG
+2020-03-27T02:32:41+00:00 DEBUG > Inserted - post ID is 177.
+2020-03-27T02:32:42+00:00 DEBUG > Finished importing post ID 177.
+2020-03-27T02:32:42+00:00 DEBUG > Row 4 - preparing for import.
+2020-03-27T02:32:42+00:00 DEBUG > Inserting TOMATOES TRUSS (AUS) PP 500G
+2020-03-27T02:32:42+00:00 DEBUG > Inserted - post ID is 178.
+2020-03-27T02:32:42+00:00 DEBUG > Finished importing post ID 178.
+2020-03-27T02:32:42+00:00 DEBUG > Row 5 - preparing for import.
+2020-03-27T02:32:42+00:00 DEBUG > Inserting TOMATOES TRUSS LOOSE PER KG
+2020-03-27T02:32:42+00:00 DEBUG > Inserted - post ID is 179.
+2020-03-27T02:32:42+00:00 DEBUG > Finished importing post ID 179.
+2020-03-27T02:32:42+00:00 DEBUG > Row 6 - preparing for import.
+2020-03-27T02:32:42+00:00 DEBUG > Inserting TURNIP ORGANIC PER KG
+2020-03-27T02:32:42+00:00 DEBUG > Inserted - post ID is 180.
+2020-03-27T02:32:42+00:00 DEBUG > Finished importing post ID 180.
+2020-03-27T02:32:42+00:00 DEBUG > Row 7 - preparing for import.
+2020-03-27T02:32:42+00:00 DEBUG > Inserting YUMMY DRIED APRICOT       500G
+2020-03-27T02:32:42+00:00 DEBUG > Inserted - post ID is 181.
+2020-03-27T02:32:43+00:00 DEBUG > Finished importing post ID 181.
+2020-03-27T02:32:43+00:00 DEBUG > Row 8 - preparing for import.
+2020-03-27T02:32:43+00:00 DEBUG > Inserting YUMMY NATURAL ALMOND 500G
+2020-03-27T02:32:43+00:00 DEBUG > Inserted - post ID is 182.
+2020-03-27T02:32:43+00:00 DEBUG > Finished importing post ID 182.
+2020-03-27T02:32:43+00:00 DEBUG > Row 9 - preparing for import.
+2020-03-27T02:32:43+00:00 DEBUG > Inserting YUMMY SLTD MIXED NUTS     500G
+2020-03-27T02:32:43+00:00 DEBUG > Inserted - post ID is 183.
+2020-03-27T02:32:43+00:00 DEBUG > Finished importing post ID 183.
+2020-03-27T02:32:43+00:00 DEBUG > Row 10 - preparing for import.
+2020-03-27T02:32:43+00:00 DEBUG > Inserting YUMNUT - PEANUTS R&amp;S      500G
+2020-03-27T02:32:43+00:00 DEBUG > Inserted - post ID is 184.
+2020-03-27T02:32:43+00:00 DEBUG > Finished importing post ID 184.
+2020-03-27T02:32:43+00:00 DEBUG Finished processing products.
+2020-03-27T02:32:44+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2020-03-27T02:32:44+00:00 DEBUG Parsing products CSV.
+2020-03-27T02:32:44+00:00 DEBUG Finished parsing products CSV.
+2020-03-27T02:32:44+00:00 DEBUG ---
+2020-03-27T02:32:44+00:00 DEBUG Processing products.
+2020-03-27T02:32:44+00:00 DEBUG > Row 1 - preparing for import.
+2020-03-27T02:32:44+00:00 DEBUG > Inserting YUMNUT CARAMEL HONEYCORN 200G
+2020-03-27T02:32:44+00:00 DEBUG > Inserted - post ID is 185.
+2020-03-27T02:32:44+00:00 DEBUG > Finished importing post ID 185.
+2020-03-27T02:32:44+00:00 DEBUG > Row 2 - preparing for import.
+2020-03-27T02:32:44+00:00 DEBUG > Inserting YUMNUT WALNUT KERNELS 400G
+2020-03-27T02:32:44+00:00 DEBUG > Inserted - post ID is 186.
+2020-03-27T02:32:44+00:00 DEBUG > Finished importing post ID 186.
+2020-03-27T02:32:44+00:00 DEBUG > Row 3 - preparing for import.
+2020-03-27T02:32:44+00:00 DEBUG > Inserting ZUCCHINI GREEN(AUS) PER KG
+2020-03-27T02:32:44+00:00 DEBUG > Inserted - post ID is 187.
+2020-03-27T02:32:45+00:00 DEBUG > Finished importing post ID 187.
+2020-03-27T02:32:45+00:00 DEBUG Finished processing products.
